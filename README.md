@@ -1,5 +1,10 @@
 # Gobinda Chandra Das — Portfolio Website
 
+#Live
+
+#Simple Home page wireframe
+https://shorturl.at/qAlyy
+
 A custom-designed, responsive, **four-page** personal portfolio built from scratch using semantic HTML5, CSS3, and vanilla JavaScript. No copied templates, build tools, frameworks, or external services are needed to run the site. Google Fonts is optional; system fonts are used if it is unavailable.
 
 ## Pages
